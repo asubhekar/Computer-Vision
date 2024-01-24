@@ -1,11 +1,4 @@
-'''
-CS558 558-A Computer Vision Homework 4 Problem 3
 
-Team Members:
-    Prasad Naik CWID: 20016345
-    Atharv Subhekar CWID: 20015840
-
-'''
 #%%==========Importing Libraries==========
 import cv2
 import numpy as np
