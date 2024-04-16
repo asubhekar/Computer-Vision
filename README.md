@@ -1,5 +1,5 @@
 # Computer_Vision 
-This git repository contains all my projects from the basics to intermediate level Computer Vision based tasks. Please refer to the linked below to navigate to each project. Each project has it's own ReadMe.md file which has the reports for the respective projects. 
+This git repository contains all my projects from the basics to intermediate level Computer Vision related tasks. Please refer to the linked below to navigate to each project. Each project has it's own ReadMe.md file which has the reports for the respective projects. 
 
 ### Digital Image Processing
 * Arithmetic Operations in Image Processing [Link](https://github.com/asubhekar/Computer-Vision/tree/3cd5141ea907e22f10551bef1edb4798c3aaecaf/Arithmetic%20Operations%20in%20Image%20Processing)
