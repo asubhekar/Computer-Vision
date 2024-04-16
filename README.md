@@ -5,7 +5,7 @@ This git repository contains all my projects from the basics to intermediate lev
 1. Arithmetic Operations in Image Processing [Link](https://github.com/asubhekar/Computer-Vision/tree/3cd5141ea907e22f10551bef1edb4798c3aaecaf/Arithmetic%20Operations%20in%20Image%20Processing)
 2. Compute Disparity Map for Depth Estimation 1 [Link](https://github.com/asubhekar/Computer-Vision/tree/3cd5141ea907e22f10551bef1edb4798c3aaecaf/Compute%20Disparity%20Map%201%20)
 3. Compute Disparity Map for Depth Estimation 2
-4. Depthwise Separable CNN for Classification 
+4. Depthwise Separable CNN for Classification Akajsfhaksjdhfaslkdjfhasdkjlf
 5. Edge Detection
 6. Face Detection using FaceNet
 7. Feature Detection 
